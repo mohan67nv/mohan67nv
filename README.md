@@ -34,10 +34,12 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 
 #### Database 
+![](https://img.shields.io/badge/SQL-<Green>)
+![](https://img.shields.io/badge/Mango-DB-<Green>)
 ![SQL](https://img.shields.io/badge/-SQL-fff?&logo=Microsoft-SQL&logoColor=232F3E)
 ![MangoDB](https://img.shields.io/badge/-MangoDB-fff?&logo=MangoDB-MangoDB&logoColor=232F3E)
 ![BigQuery](https://img.shields.io/badge/BigQuery--fff?&logo=BigQuery&logoColor=232F3E)
-![](https://img.shields.io/badge/<Big>-<Query>-<Green>)
+![](https://img.shields.io/badge/Big-Query-<Green>)
 
 
 #### IDE
