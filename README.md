@@ -37,12 +37,12 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/-SQL-fff?&logo=Microsoft-SQL&logoColor=232F3E)
 ![MangoDB](https://img.shields.io/badge/-MangoDB-fff?&logo=MangoDB-MangoDB&logoColor=232F3E)
 ![BigQuery](https://img.shields.io/badge/BigQuery--fff?&logo=BigQuery&logoColor=232F3E)
+https://img.shields.io/badge/<Big>-<Query>-<Green>
 
 
 #### IDE
 ![PyCharm](https://img.shields.io/badge/-PyCharm-fff?&logo=JetBrains-PyCharm&logoColor=232F3E)
 ![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-fff?&logo=Project-Jupyter&logoColor=232F3E)
-#![Spyder](https://img.shields.io/badge/-Spyper-fff?&logo=Anaconda-Spyder&logoColor=232F3E)
 ![Spyder](https://img.shields.io/badge/-Spyper-fff?&logo=Anaconda-Spyder&logoColor=232F3E)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-fff?&logo=Anaconda&logoColor=232F3E)
 
