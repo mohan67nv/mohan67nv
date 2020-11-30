@@ -1,5 +1,5 @@
 ### Hi, I'm Mohana 👋🏼👨🏻‍💻
-I'm a Master degrre in Analytics[@University of Hildesheim](https://www.uni-hildesheim.de/) at Germany, who is passionate about Data Science, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way. 
+I'm Persuing Master's degree in Analytics[@University of Hildesheim](https://www.uni-hildesheim.de/) at Germany, who is passionate about Data Science, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way. 
 
 <!--
 **mohan67nv/mohan67nv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
