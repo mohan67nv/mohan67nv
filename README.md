@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 
 #### Database 
-![](https://img.shields.io/badge/SQL-<blue>)
+![SQL](https://img.shields.io/badge/-SQL-<blue>)
 
 
 
