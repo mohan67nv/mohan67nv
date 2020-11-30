@@ -35,7 +35,15 @@ Here are some ideas to get you started:
 
 #### Database 
 ![](https://img.shields.io/badge/-SQL-blue)
+![](https://img.shields.io/badge/Mango-DB-blue)
+![](https://img.shields.io/badge/Big-Query-blue)
 
+
+#### IDE
+![](https://img.shields.io/badge/PyCahrm-blue)
+![](https://img.shields.io/badge/Jupyter-Notebook-yellow)
+![](https://img.shields.io/badge/Visual-Code-orange)
+![](https://img.shields.io/badge/Anaconda-red)
 
 
 #### Technologies
