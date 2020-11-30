@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
 ![Jira](https://img.shields.io/badge/-Jira-fff?style=flat&logo=jira-software&logoColor=blue)
-![GCP](https://img.shields.io/badge/-GCP-fff?&logo=Google-GCP&logoColor=232F3E)
+![GCP](https://img.shields.io/badge/-GCP-fff?&logo=Google Cloud Platform&logoColor=232F3E)
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
 
