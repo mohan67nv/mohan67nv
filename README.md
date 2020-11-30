@@ -40,10 +40,11 @@ Here are some ideas to get you started:
 
 
 #### IDE
-![](https://img.shields.io/badge/PyCahrm-<Yellow>)
-![](https://img.shields.io/badge/Jupyter-Notebook-<Yellow>)
-![](https://img.shields.io/badge/Visual-Code-<Green>)
-![Anaconda](https://img.shields.io/badge/-Anaconda-fff?&logo=Anaconda&logoColor=232F3E)
+![](https://img.shields.io/badge/PyCahrm-<blue>)
+![](https://img.shields.io/badge/Jupyter-Notebook-<yellow>)
+![](https://img.shields.io/badge/Visual-Code-<orange>)
+![](https://img.shields.io/badge/Anaconda-<orange>)
+
 
 #### Technologies
 ![Haddop](https://img.shields.io/badge/-Hadoop-fff?&logo=Hadoop-Hadoop&logoColor=232F3E)
