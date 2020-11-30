@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/PyCahrm-<blue>)
 ![](https://img.shields.io/badge/Jupyter-Notebook-<yellow>)
 ![](https://img.shields.io/badge/Visual-Code-<orange>)
-![](https://img.shields.io/badge/Anaconda?style=flat&logo=anaconda-<orange>)
+![](https://img.shields.io/badge/Anaconda-fff?style=flat&logo=anaconda-<orange>)
 
 
 #### Technologies
