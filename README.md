@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 
 #### Database 
-![](https://img.shields.io/badge/SQL-<Green>)
-![](https://img.shields.io/badge/Mango-DB-<Green>)
+![](https://img.shields.io/badge/SQL-<blue>)
+![](https://img.shields.io/badge/Mango-DB-<blue>)
 ![](https://img.shields.io/badge/Big-Query-<blue>)
 
 
