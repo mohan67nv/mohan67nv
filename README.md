@@ -1,3 +1,6 @@
+![coverpic](https://user-images.githubusercontent.com/29673947/100669557-d8f76880-335d-11eb-982b-3862cee56f63.jpeg)
+
+
 ### Hi, I'm Mohana 👋🏼👨🏻‍💻
 I'm Persuing Master's degree in Data Analytics[@University of Hildesheim](https://www.uni-hildesheim.de/) at Germany, who is passionate about Data Science, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way. 
 
