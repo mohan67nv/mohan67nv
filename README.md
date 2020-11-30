@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 #### IDE
 ![PyCharm](https://img.shields.io/badge/-PyCharm-fff?&logo=JetBrains-PyCharm&logoColor=232F3E)
-![Jupyter Notebook](https://img.shields.io/badge/-Project Jupyter-fff?&logo=Project Jupyter&logoColor=232F3E)
+![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-fff?&logo=Project-Jupyter&logoColor=232F3E)
 ![Spyder](https://img.shields.io/badge/-Spyper-fff?&logo=Anaconda-Spyder&logoColor=232F3E)
 ![Spyder](https://img.shields.io/badge/-Spyper-fff?&logo=Anaconda-Spyder&logoColor=232F3E)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-fff?&logo=Anaconda&logoColor=232F3E)
