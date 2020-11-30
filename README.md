@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 #### Languages
-![Python](https://img.shields.io/badge/-Python-fff?&logo=Python Programming&logoColor=ddc440)
+![Python](https://img.shields.io/badge/-Python-fff?&logo=Python&logoColor=ddc440)
 ![Django](https://img.shields.io/badge/-Django-fff?&logo=Django&logoColor=ddc440)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 #### IDE
 ![PyCharm](https://img.shields.io/badge/-PyCharm-fff?&logo=JetBrains-PyCharm&logoColor=232F3E)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-fff?&logo=Jupyter-Notebook&logoColor=232F3E)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-fff?&logo=Project Jupyter&logoColor=232F3E)
 ![Spyder](https://img.shields.io/badge/-Spyper-fff?&logo=Anaconda-Spyder&logoColor=232F3E)
 ![Spyder](https://img.shields.io/badge/-Spyper-fff?&logo=Anaconda-Spyder&logoColor=232F3E)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-fff?&logo=Anaconda&logoColor=232F3E)
@@ -49,14 +49,14 @@ Here are some ideas to get you started:
 #### Technologies
 ![Haddop](https://img.shields.io/badge/-Hadoop-fff?&logo=Hadoop-Hadoop&logoColor=232F3E)
 ![UNIX](https://img.shields.io/badge/-UNIX-fff?&logo=UNIX-Linux&logoColor=232F3E)
-![IBM-SPSS](https://img.shields.io/badge/-IBM-SPSS-fff?&logo=IBM-SPSS-Modeler&logoColor=232F3E)
+![IBM-SPSS](https://img.shields.io/badge/-IBM-SPSS-fff?&logo=SPSS&logoColor=232F3E)
 ![Spark](https://img.shields.io/badge/-Spark-fff?&logo=Apache-Spark&logoColor=232F3E)
 ![tableau](https://img.shields.io/badge/-tableau-fff?&logo=tableau-tableau&logoColor=232F3E)
 ![BigQuery](https://img.shields.io/badge/BigQuery--fff?&logo=Google-BigQuery&logoColor=232F3E)
 ![Kubernetes](https://img.shields.io/badge/-kuberntes-fff?&logo=Google-Kubernetes&logoColor=232F3E)
 ![Markdown](https://img.shields.io/badge/-Markdown-fff?style=flat&logo=markdown&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
-![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
+#![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
 ![Jira](https://img.shields.io/badge/-Jira-fff?style=flat&logo=jira-software&logoColor=blue)
