@@ -36,14 +36,14 @@ Here are some ideas to get you started:
 #### Database 
 ![](https://img.shields.io/badge/SQL-<Green>)
 ![](https://img.shields.io/badge/Mango-DB-<Green>)
-![](https://img.shields.io/badge/Big-Query-<Green>)
+![](https://img.shields.io/badge/Big-Query-<blue>)
 
 
 #### IDE
 ![](https://img.shields.io/badge/PyCahrm-<blue>)
 ![](https://img.shields.io/badge/Jupyter-Notebook-<yellow>)
 ![](https://img.shields.io/badge/Visual-Code-<orange>)
-![](https://img.shields.io/badge/--Anaconda--<orange>)
+![](https://img.shields.io/badge/Anaconda-<orange>)
 
 
 #### Technologies
