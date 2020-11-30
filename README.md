@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 #### IDE
 ![PyCharm](https://img.shields.io/badge/-PyCharm-fff?&logo=JetBrains-PyCharm&logoColor=232F3E)
 ![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-fff?&logo=Project-Jupyter&logoColor=232F3E)
-![Spyder](https://img.shields.io/badge/-Spyper-fff?&logo=Anaconda-Spyder&logoColor=232F3E)
+#![Spyder](https://img.shields.io/badge/-Spyper-fff?&logo=Anaconda-Spyder&logoColor=232F3E)
 ![Spyder](https://img.shields.io/badge/-Spyper-fff?&logo=Anaconda-Spyder&logoColor=232F3E)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-fff?&logo=Anaconda&logoColor=232F3E)
 
@@ -52,11 +52,9 @@ Here are some ideas to get you started:
 ![IBM-SPSS](https://img.shields.io/badge/-SPSS-fff?&logo=SPSS&logoColor=232F3E)
 ![Spark](https://img.shields.io/badge/-Spark-fff?&logo=Apache-Spark&logoColor=232F3E)
 ![tableau](https://img.shields.io/badge/-tableau-fff?&logo=tableau-tableau&logoColor=232F3E)
-
 ![Kubernetes](https://img.shields.io/badge/-kuberntes-fff?&logo=Kubernetes&logoColor=232F3E)
 ![Markdown](https://img.shields.io/badge/-Markdown-fff?style=flat&logo=markdown&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
-#![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
 ![Jira](https://img.shields.io/badge/-Jira-fff?style=flat&logo=jira-software&logoColor=blue)
