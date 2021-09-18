@@ -17,6 +17,16 @@ I'm Persuing Master's degree in Data Analytics[@University of Hildesheim](https:
 ![githubbadge](https://img.shields.io/github/followers/mohan67nv?style=social)
 ![](https://komarev.com/ghpvc/?username=mohan67nv&color=brightgreen&style=flat)
 
+## 👨‍💻 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 16 mins  █████████████████████░░░░   84.59 % 
+CSS          1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Markdown     31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Python         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+```
+<!--END_SECTION:waka-->
 
 Here are some ideas to get you started:
 
