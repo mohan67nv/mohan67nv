@@ -16,6 +16,11 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohanan.venkatesha@gmail.com)](mailto:mohanan.venkatesha@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=201154321101&text=Olá!)](https://api.whatsapp.com/send?phone=4917671212932&text=Hi!🖖)
 ![githubbadge](https://img.shields.io/github/followers/mohan67nv?style=social)
+
+
+My GitHub:
+![GitHub User's stars](https://img.shields.io/github/stars/mohan67nv)
+![GitHub followers](https://img.shields.io/github/followers/mohan67nv)
 ![](https://komarev.com/ghpvc/?username=mohan67nv&color=brightgreen&style=flat)
 
 Here are some ideas to get you started:
@@ -40,7 +45,7 @@ Here are some ideas to get you started:
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python&logoColor=ddc440)
 ![UNIX](https://img.shields.io/badge/-Unix-fff?&logo=Linux&logoColor=ddc440)
-![C++](https://img.shields.io/badge/-c++-fff?&logo=C++&logoColor=ddc440)
+![C++](https://img.shields.io/badge/-C++-fff?&logo=C++&logoColor=ddc440)
 ![R](https://img.shields.io/badge/-R-fff?&logo=RProgramming&logoColor=ddc440)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 
