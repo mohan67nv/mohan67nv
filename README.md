@@ -20,14 +20,14 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently looking for full time job
+- 🔭 I’m currently working as a Data Scientist and Head of Edge AI
 - 🌱 I’m currently learning Google Cloud Docker,Kubernetes.
 - 👯 I’m looking to collaborate on .. Any project
-- 🤔 I’m looking for help with Federated Learning on Healthcare application
+- 🤔 I’m looking for help with Federated Learning on Healthcare and Energy sector application
 - 💬 Ask me about ...What Ever
 - 📫 How to reach me: ...mohanan.venkatesha@gmail.com
 - 😄 Pronouns: ...He
-- 🕵️‍♂️Serching for Full-time data Science/ML Job
+- 🕵️‍♂️Serching for data Science/ML Projects
 - ⚡ Fun fact: ...Coder Never Sleeps
 -->
 
@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python&logoColor=ddc440)
-![Django](https://img.shields.io/badge/-Django-fff?&logo=Django&logoColor=ddc440)
-![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
+![UNIX](https://img.shields.io/badge/-Django-fff?&logo=unix&logoColor=ddc440)
+![C++](https://img.shields.io/badge/-Django-fff?&logo=c++&logoColor=ddc440)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 
