@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python&logoColor=ddc440)
-![UNIX](https://img.shields.io/badge/-Django-fff?&logo=unix&logoColor=ddc440)
-![C++](https://img.shields.io/badge/-Django-fff?&logo=c++&logoColor=ddc440)
-![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
+![UNIX](https://img.shields.io/badge/-Unix-fff?&logo=unix&logoColor=ddc440)
+![C++](https://img.shields.io/badge/-c++-fff?&logo=c++&logoColor=ddc440)
+![R](https://img.shields.io/badge/-R-fff?&logo=R)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 
 #### Database 
@@ -60,12 +60,11 @@ Here are some ideas to get you started:
 #### Technologies
 ![Haddop](https://img.shields.io/badge/-Hadoop-fff?&logo=Hadoop-Hadoop&logoColor=232F3E)
 ![UNIX](https://img.shields.io/badge/-UNIX-fff?&logo=UNIX-Linux&logoColor=232F3E)
-![IBM-SPSS](https://img.shields.io/badge/-SPSS-fff?&logo=SPSS&logoColor=232F3E)
+![Azure Cloud](https://img.shields.io/badge/-Azure-fff?&logo=Azure&logoColor=232F3E)
 ![Spark](https://img.shields.io/badge/-Spark-fff?&logo=Apache-Spark&logoColor=232F3E)
 ![tableau](https://img.shields.io/badge/-tableau-fff?&logo=tableau-tableau&logoColor=232F3E)
 ![Kubernetes](https://img.shields.io/badge/-kuberntes-fff?&logo=Kubernetes&logoColor=232F3E)
 ![Markdown](https://img.shields.io/badge/-Markdown-fff?style=flat&logo=markdown&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
 ![Jira](https://img.shields.io/badge/-Jira-fff?style=flat&logo=jira-software&logoColor=blue)
