@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python&logoColor=ddc440)
-![UNIX](https://img.shields.io/badge/-Unix-fff?&logo=unix&logoColor=ddc440)
-![C++](https://img.shields.io/badge/-c++-fff?&logo=c++&logoColor=ddc440)
-![R](https://img.shields.io/badge/-R-fff?&logo=R)
+![UNIX](https://img.shields.io/badge/-Unix-fff?&logo=Linux&logoColor=ddc440)
+![C++](https://img.shields.io/badge/-c++-fff?&logo=C++&logoColor=ddc440)
+![R](https://img.shields.io/badge/-R-fff?&logo=RProgramming&logoColor=ddc440)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 
 #### Database 
