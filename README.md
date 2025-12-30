@@ -27,12 +27,10 @@ My GitHub:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Data Scientist and Head of Edge AI
-- 🌱 I’m currently learning Azure, Google Cloud Docker,Kubernetes.
 - 👯 I’m looking to collaborate on Any project
 - 🤔 I’m looking for help with Federated Learning on the Healthcare and Energy sector application
 - 💬 Ask me about What Ever you want to
 - 📫 How to reach me: mohanan.venkatesha@gmail.com
-- 😄 Pronouns: He/Him
 - 🕵️‍♂️Serching for Data Science/ML Projects
 - ⚡ Fun fact: "Coder Never Sleeps"
 -->
