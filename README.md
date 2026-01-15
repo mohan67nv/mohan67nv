@@ -1,8 +1,3 @@
-
-![PhotoGrid_1606774822181_2](https://user-images.githubusercontent.com/29673947/100672892-d64b4200-3362-11eb-9237-2665db6c8d02.jpg)
-
-
-
 ### Hi, I'm Mohana 👋🏼👨🏻‍💻
 MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hildesheim.de/). passionate engineer, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way. 
 
