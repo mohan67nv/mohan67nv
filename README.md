@@ -71,16 +71,6 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
 
-## 👨‍💻 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python            12 hrs 16 mins   █████████████████████░░░░   84.59 % 
-Jupyter Notebook   1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Markdown          31 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Python            12 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-```
-<!--END_SECTION:waka-->
 
 
 <br>
