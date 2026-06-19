@@ -22,17 +22,11 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
 </tr>
 </table>
 
-## 🏆 Trophies
+<!-- 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohan67nv&no-frame=true&row=1&column=7&theme=flat"/>
-</p>
-
-## ⏱️ Time Spent (WakaTime)
-
-<p align="center">
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg"/>
-</p>
+</p> -->
 
 ## 📈 Activity Graph
 
@@ -48,7 +42,7 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
 - [LinkedIn](https://www.linkedin.com/in/mohan67nv)
 - [Twitter](https://twitter.com/TheMohana) -->
 
-#### Languages
+<!-- #### Languages
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python&logoColor=ddc440)
 ![UNIX](https://img.shields.io/badge/-Unix-fff?&logo=Linux&logoColor=ddc440)
 ![C++](https://img.shields.io/badge/-C++-fff?&logo=C++&logoColor=ddc440)
