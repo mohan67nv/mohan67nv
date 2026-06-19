@@ -12,12 +12,25 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=201154321101&text=Olá!)](https://api.whatsapp.com/send?phone=4917671212932&text=Hi!🖖)
 <!--![githubbadge](https://img.shields.io/github/followers/mohan67nv?style=social)-->
 
+## 📊 GitHub Stats
 
+![Mohana's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohan67nv&show_icons=true&theme=default&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-My GitHub: 
-![GitHub User's stars](https://img.shields.io/github/stars/mohan67nv)
-![GitHub followers](https://img.shields.io/github/followers/mohan67nv)
-![](https://komarev.com/ghpvc/?username=mohan67nv&color=brightgreen&style=flat)
+## 🔥 Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohan67nv&theme=default)](https://git.io/streak-stats)
+
+## 💬 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohan67nv&layout=compact&langs_count=8&theme=default)
+
+## 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohan67nv&theme=flat&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📈 Activity Graph
+
+[![Mohana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohan67nv&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Here are some ideas to get you started:
 
