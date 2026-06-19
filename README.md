@@ -10,7 +10,6 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
 [![dev.to badge](https://img.shields.io/badge/-mohan.nv-%230177B5?style=flat&logo=instagram)](https://www.instagram.com/mohan.nv/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohanan.venkatesha@gmail.com)](mailto:mohanan.venkatesha@gmail.com)
 
-<!--![githubbadge](https://img.shields.io/github/followers/mohan67nv?style=social)-->
 
 ## 📊 GitHub Stats & Streak
 
