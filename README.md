@@ -12,29 +12,33 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=201154321101&text=Olá!)](https://api.whatsapp.com/send?phone=4917671212932&text=Hi!🖖)
 <!--![githubbadge](https://img.shields.io/github/followers/mohan67nv?style=social)-->
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mohan67nv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan67nv&layout=compact&langs_count=8&theme=tokyonight&hide=html"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mohan67nv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan67nv&layout=compact&langs_count=8&theme=tokyonight&hide=html"/>
 </p>
 
-## 🔥 Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohan67nv&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://streak-stats.demolab.com?user=mohan67nv&theme=tokyonight&hide_border=true&hide=total"/>
 </p>
 
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohan67nv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=mohan67nv&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+## ⏱️ Time Spent
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg"/>
 </p>
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan67nv&theme=tokyo-night&hide_border=true"/>
+  <img height="120em" src="https://github-readme-activity-graph.vercel.app/graph?username=mohan67nv&theme=tokyo-night&hide_border=true&height=200"/>
 </p>
 - ⚡ Fun fact: "Coder Never Sleeps"
 -->
