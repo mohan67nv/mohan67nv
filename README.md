@@ -15,21 +15,18 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mohan67nv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan67nv&layout=compact&langs_count=8&theme=tokyonight&hide=html"/>
-</p>
-
-<p align="center">
-  <img height="165em" src="https://streak-stats.demolab.com?user=mohan67nv&theme=tokyonight&hide_border=true&hide=total"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohan67nv&show_icons=true&include_all_commits=true&count_private=true&hide=contribs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan67nv&layout=compact&langs_count=8&hide=html"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=mohan67nv&hide=total"/>
 </p>
 
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=mohan67nv&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohan67nv&no-frame=true&row=1&column=7"/>
 </p>
 
-## ⏱️ Time Spent
+## ⏱️ Time Spent (WakaTime)
 
 <p align="center">
   <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg"/>
@@ -38,7 +35,7 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
 ## 📈 Activity Graph
 
 <p align="center">
-  <img height="120em" src="https://github-readme-activity-graph.vercel.app/graph?username=mohan67nv&theme=tokyo-night&hide_border=true&height=200"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan67nv"/>
 </p>
 - ⚡ Fun fact: "Coder Never Sleeps"
 -->
