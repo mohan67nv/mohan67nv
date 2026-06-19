@@ -15,8 +15,8 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohan67nv&show_icons=true&include_all_commits=true&count_private=true&hide=contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan67nv&layout=compact&langs_count=8&hide=html"/>
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohan67nv&show_icons=true&include_all_commits=true&count_private=true&hide=contribs"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan67nv&layout=compact&langs_count=8&hide=html"/> 
   <img height="180em" src="https://streak-stats.demolab.com?user=mohan67nv&hide=total"/>
 </p>
 
