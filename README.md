@@ -14,16 +14,18 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
 
 ## 📊 GitHub Stats & Streak
 
-<p align="center">
- <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohan67nv&show_icons=true&include_all_commits=true&count_private=true&hide=contribs"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan67nv&layout=compact&langs_count=8&hide=html"/> 
-  <img height="180em" src="https://streak-stats.demolab.com?user=mohan67nv&hide=total"/>
-</p>
+<table>
+<tr>
+<td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohan67nv&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=default&bg_color=ffffff"/></td>
+<td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan67nv&layout=compact&langs_count=8&hide=html&theme=default&bg_color=ffffff"/></td>
+<td><img height="180em" src="https://streak-stats.demolab.com?user=mohan67nv&hide=total&theme=default&background=ffffff"/></td>
+</tr>
+</table>
 
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohan67nv&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohan67nv&no-frame=true&row=1&column=7&theme=flat"/>
 </p>
 
 ## ⏱️ Time Spent (WakaTime)
@@ -35,7 +37,7 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan67nv"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan67nv&theme=default&bg_color=ffffff&color=24292e&line=24292e&point=24292e"/>
 </p>
 - ⚡ Fun fact: "Coder Never Sleeps"
 -->
