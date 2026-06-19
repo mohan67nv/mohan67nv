@@ -9,7 +9,7 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
 [![dev.to badge](https://img.shields.io/badge/-mohan67nv-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohan67nv/)
 [![dev.to badge](https://img.shields.io/badge/-mohan.nv-%230177B5?style=flat&logo=instagram)](https://www.instagram.com/mohan.nv/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohanan.venkatesha@gmail.com)](mailto:mohanan.venkatesha@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=201154321101&text=Olá!)](https://api.whatsapp.com/send?phone=4917671212932&text=Hi!🖖)
+
 <!--![githubbadge](https://img.shields.io/github/followers/mohan67nv?style=social)-->
 
 ## 📊 GitHub Stats & Streak
