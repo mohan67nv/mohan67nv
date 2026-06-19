@@ -14,32 +14,28 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
 
 ## 📊 GitHub Stats
 
-![Mohana's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohan67nv&show_icons=true&theme=default&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mohan67nv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan67nv&layout=compact&langs_count=8&theme=tokyonight&hide=html"/>
+</p>
 
 ## 🔥 Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohan67nv&theme=default)](https://git.io/streak-stats)
-
-## 💬 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohan67nv&layout=compact&langs_count=8&theme=default)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohan67nv&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohan67nv&theme=flat&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohan67nv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+</p>
 
 ## 📈 Activity Graph
 
-[![Mohana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohan67nv&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as a Data Scientist and Head of Edge AI
-- 👯 I’m looking to collaborate on Any project
-- 🤔 I’m looking for help with Federated Learning on the Healthcare and Energy sector application
-- 💬 Ask me about What Ever you want to
-- 📫 How to reach me: mohanan.venkatesha@gmail.com
-- 🕵️‍♂️Serching for Data Science/ML Projects
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan67nv&theme=tokyo-night&hide_border=true"/>
+</p>
 - ⚡ Fun fact: "Coder Never Sleeps"
 -->
 
