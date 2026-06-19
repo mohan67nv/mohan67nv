@@ -11,7 +11,7 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohanan.venkatesha@gmail.com)](mailto:mohanan.venkatesha@gmail.com)
 
 
-<!-- ## 📊 GitHub Stats & Streak -->
+# 📊 GitHub Stats & Streak
 
 <table>
 <tr>
@@ -27,7 +27,7 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
   <img src="https://github-profile-trophy.vercel.app/?username=mohan67nv&no-frame=true&row=1&column=7&theme=flat"/>
 </p> -->
 
-## 📈 Activity Graph
+<!-- ## 📈 Activity Graph -->
 
 <p align="center">
   <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=mohan67nv&theme=default&bg_color=ffffff&color=24292e&line=24292e&point=24292e&height=200"/>
