@@ -11,7 +11,7 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohanan.venkatesha@gmail.com)](mailto:mohanan.venkatesha@gmail.com)
 
 
-# 📊 GitHub Stats & Streak
+### 📊 GitHub Stats & Streak
 
 <table>
 <tr>
