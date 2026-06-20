@@ -32,7 +32,7 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
 <p align="center">
   <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=mohan67nv&theme=default&bg_color=ffffff&color=24292e&line=24292e&point=24292e&height=200"/>
 </p>
-- ⚡ Fun fact: "Coder Never Sleeps"
+- Fun fact: "Coder Never Sleeps"
 -->
 
 <!-- ## Find me around the web 🌍 
