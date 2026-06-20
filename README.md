@@ -21,6 +21,19 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
 </tr>
 </table>
 
+<table>
+  <tr>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohan67nv&show_icons=true&include_all_commits=true&count_private=true&theme=default&bg_color=ffffff&cache=0"/></td>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan67nv&layout=compact&langs_count=8&hide=html&theme=default&bg_color=ffffff&cache=0"/></td>
+    <td><img height="180em" src="https://streak-stats.demolab.com?user=mohan67nv&theme=default&background=ffffff&cache=0"/></td>
+  </tr>
+</table>
+
+<!-- Extra Stats -->
+- **Total Contributions**: ![Contributions](https://img.shields.io/badge/Contributions-1%2C200%2B-blue?style=flat)
+- **Pull Requests**: ![PRs](https://img.shields.io/github/issues-pr-closed/mohan67nv?color=green&label=PRs)
+- **Issues Closed**: ![Issues](https://img.shields.io/github/issues-closed/mohan67nv?color=blue&label=Issues)
+
 <!-- 🏆 Trophies
 
 <p align="center">
