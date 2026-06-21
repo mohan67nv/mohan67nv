@@ -41,7 +41,7 @@ MSc Data Analytics from University of Hildesheim, Germany (https://www.uni-hilde
 - Fun fact: "Coder Never Sleeps"
 -->
 
-<!-- ## Find me around the web 🌍 
+<!-- ## Find me around the web 
 
 - [Instagram](https://www.instagram.com/mohan.nv/)
 - [LinkedIn](https://www.linkedin.com/in/mohan67nv)
